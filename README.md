@@ -1,4 +1,6 @@
-** COUNTATRON 5000: A small app to do quick cytometry analysis **
+# COUNTATRON 5000
+
+### A small app to do quick cytometry analysis
 
 Put your FCS files in the import directory.
 
