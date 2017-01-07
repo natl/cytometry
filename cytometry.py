@@ -27,9 +27,9 @@ from bokeh.models import ColumnDataSource
 from bokeh.plotting import figure, curdoc
 from bokeh.layouts import widgetbox
 from bokeh.models.widgets import Select, Button, PreText
-from importer import import_files
-
-import_files()
+# from importer import import_files
+#
+# import_files()
 
 # Add/remove color channels here
 colors = [u'FSC-H', u'SSC-H', u'FL1-H', u'FL2-H', u'FL3-H', u'FL1-A', u'FL1-W']
